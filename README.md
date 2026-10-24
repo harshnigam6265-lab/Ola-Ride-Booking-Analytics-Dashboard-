@@ -19,35 +19,35 @@ The objective is to convert ride-booking records into useful business insights. 
 ### 1. Overall Performance
 Shows total bookings, booking value, booking-status breakdown, and ride volume over time.
 
-![Overall Dashboard](screenshots/overview.png)
+
 <img width="1075" height="603" alt="image" src="https://github.com/user-attachments/assets/fafb56f5-abc7-4961-ba28-4eb91da34980" />
 
 
 ### 2. Vehicle Type Analysis
 Compares total booking value, successful booking value, average distance, and total distance travelled across vehicle types.
 
-![Vehicle Type Dashboard](screenshots/vechile_type.png)
+
 <img width="1072" height="601" alt="image" src="https://github.com/user-attachments/assets/5aac8a0e-195d-46c9-919d-497762c1d4f9" />
 
 
 ### 3. Revenue Analysis
 Explores booking value by payment method, top customers by booking value, and ride-distance distribution by date.
 
-![Revenue Dashboard](screenshots/revenue.png)
+
 <img width="1075" height="602" alt="image" src="https://github.com/user-attachments/assets/bb3b780d-c5d7-41ed-8158-9acf4038df02" />
 
 
 ### 4. Cancellation Analysis
 Examines customer and driver cancellation reasons, succeeded and cancelled bookings, and cancellation rate.
 
-![Cancellation Dashboard](screenshots/cancellation.png)
+
 <img width="1077" height="598" alt="image" src="https://github.com/user-attachments/assets/28b61195-3f8e-4677-ac58-f6e93884fa45" />
 
 
 ### 5. Ratings Analysis
 Compares average driver ratings and customer ratings across vehicle types.
 
-![Ratings Dashboard](screenshots/ratings.png)
+
 <img width="1075" height="607" alt="image" src="https://github.com/user-attachments/assets/53a1aca0-7534-4b30-a9f2-f15ff6d6f49f" />
 
 
