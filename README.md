@@ -20,27 +20,36 @@ The objective is to convert ride-booking records into useful business insights. 
 Shows total bookings, booking value, booking-status breakdown, and ride volume over time.
 
 ![Overall Dashboard](screenshots/overview.png)
-<img width="1366" height="720" alt="overview" src="https://github.com/user-attachments/assets/0a328713-afa8-4085-8c7a-07176e26c37c" />
+<img width="1075" height="603" alt="image" src="https://github.com/user-attachments/assets/fafb56f5-abc7-4961-ba28-4eb91da34980" />
+
 
 ### 2. Vehicle Type Analysis
 Compares total booking value, successful booking value, average distance, and total distance travelled across vehicle types.
 
 ![Vehicle Type Dashboard](screenshots/vechile_type.png)
+<img width="1072" height="601" alt="image" src="https://github.com/user-attachments/assets/5aac8a0e-195d-46c9-919d-497762c1d4f9" />
+
 
 ### 3. Revenue Analysis
 Explores booking value by payment method, top customers by booking value, and ride-distance distribution by date.
 
 ![Revenue Dashboard](screenshots/revenue.png)
+<img width="1075" height="602" alt="image" src="https://github.com/user-attachments/assets/bb3b780d-c5d7-41ed-8158-9acf4038df02" />
+
 
 ### 4. Cancellation Analysis
 Examines customer and driver cancellation reasons, succeeded and cancelled bookings, and cancellation rate.
 
 ![Cancellation Dashboard](screenshots/cancellation.png)
+<img width="1077" height="598" alt="image" src="https://github.com/user-attachments/assets/28b61195-3f8e-4677-ac58-f6e93884fa45" />
+
 
 ### 5. Ratings Analysis
 Compares average driver ratings and customer ratings across vehicle types.
 
 ![Ratings Dashboard](screenshots/ratings.png)
+<img width="1075" height="607" alt="image" src="https://github.com/user-attachments/assets/53a1aca0-7534-4b30-a9f2-f15ff6d6f49f" />
+
 
 ## 📈 KPI Snapshot
 
@@ -90,23 +99,6 @@ The script uses SQL views to organize reusable query results. Review the SQL fil
 3. **Dashboard development:** Created Power BI visuals and KPI cards across five report pages.
 4. **Business exploration:** Used dashboard filters to compare performance across dates and booking categories.
 
-## 📁 Repository Structure
-
-```text
-OLA-Ride-Booking-Analytics-Dashboard/
-├── README.md
-├── ola_dataset.csv
-├── ola_queries.sql
-├── ola_project_dashboard.pbix
-└── screenshots/
-    ├── overview.png
-    ├── vechile_type.png
-    ├── revenue.png
-    ├── cancellation.png
-    └── ratings.png
-```
-
-Update the filenames in this section if your repository uses different names.
 
 ## 🚀 How to Explore
 
