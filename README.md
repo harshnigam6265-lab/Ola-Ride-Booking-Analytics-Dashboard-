@@ -124,7 +124,7 @@ B.Tech, Metallurgical and Materials Engineering
 National Institute of Technology, Raipur
 
 - **GitHub:** [harshnigam6265-lab](https://github.com/harshnigam6265-lab)
-- **LinkedIn:** Add your LinkedIn profile URL here
+- **LinkedIn:** www.linkedin.com/in/harshit-nigam-a0701b29b
 
 ---
 
