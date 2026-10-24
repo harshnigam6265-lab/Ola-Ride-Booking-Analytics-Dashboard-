@@ -20,6 +20,7 @@ The objective is to convert ride-booking records into useful business insights. 
 Shows total bookings, booking value, booking-status breakdown, and ride volume over time.
 
 ![Overall Dashboard](screenshots/overview.png)
+<img width="1366" height="720" alt="overview" src="https://github.com/user-attachments/assets/0a328713-afa8-4085-8c7a-07176e26c37c" />
 
 ### 2. Vehicle Type Analysis
 Compares total booking value, successful booking value, average distance, and total distance travelled across vehicle types.
